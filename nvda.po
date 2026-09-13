@@ -1,0 +1,268 @@
+# Translation template for NVDA Add-on: ClipSpeakPlus
+# Generated from codebase modules: __init__.py, clipManager.py, clipSpeak.py, clipAnnounce.py, clipText.py
+msgid ""
+msgstr ""
+"Project-Id-Version: ClipSpeakPlus 2026.1.1\n"
+"Report-Msgid-Bugs-To: jgfselva@gmail.com\n"
+"POT-Creation-Date: 2026-09-09 19:51+0530\n"
+"PO-Revision-Date: 2026-09-13 12:00+0530\n"
+"Last-Translator: Selvakumar G <jgfselva@gmail.com>\n"
+"Language-Team: English <jgfselva@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-NVDA-MinVersion: 2023.1.0\n"
+"X-NVDA-LastTestedVersion: 2026.1.1\n"
+
+#. Add-on Metadata & Script Categories
+msgid "ClipSpeakPlus"
+msgstr "ClipSpeakPlus"
+
+msgid "Enhanced clipboard feedback, history management, and detailed item announcements."
+msgstr "Enhanced clipboard feedback, history management, and detailed item announcements."
+
+#. __init__.py & Script Descriptions
+msgid "Announces information about selected files or folders."
+msgstr "Announces information about selected files or folders."
+
+msgid "Appends selected text to clip.txt."
+msgstr "Appends selected text to clip.txt."
+
+msgid "Clears all clipboard history after password verification."
+msgstr "Clears all clipboard history after password verification."
+
+msgid "Opens the clipboard history dialog."
+msgstr "Opens the clipboard history dialog."
+
+msgid "Saves selected text to clip.txt."
+msgstr "Saves selected text to clip.txt."
+
+msgid "Shows settings dialog to change hotkey."
+msgstr "Shows settings dialog to change hotkey."
+
+msgid "Toggles ClipSpeak add-on functionality ON or OFF."
+msgstr "Toggles ClipSpeak add-on functionality ON or OFF."
+
+msgid "ClipSpeak activated"
+msgstr "ClipSpeak activated"
+
+msgid "ClipSpeak deactivated"
+msgstr "ClipSpeak deactivated"
+
+#. clipAnnounce.py - Announcements & Unit Formatting
+msgid "Calculated directory size"
+msgstr "Calculated directory size"
+
+msgid "Calculation timed out"
+msgstr "Calculation timed out"
+
+msgid "Directory size calculation failed"
+msgstr "Directory size calculation failed"
+
+msgid "Empty"
+msgstr "Empty"
+
+msgid "Folder: %s, Files: %d, Subfolders: %d, Size: %s"
+msgstr "Folder: %s, Files: %d, Subfolders: %d, Size: %s"
+
+msgid "No recycle bin items found"
+msgstr "No recycle bin items found"
+
+msgid "No standard drive or system folder info found"
+msgstr "No standard drive or system folder info found"
+
+msgid "Recycle Bin size"
+msgstr "Recycle Bin size"
+
+msgid "Selected text"
+msgstr "Selected text"
+
+msgid "System folder path"
+msgstr "System folder path"
+
+msgid "%d characters"
+msgstr "%d characters"
+
+msgid "%d items"
+msgstr "%d items"
+
+msgid "bytes"
+msgstr "bytes"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "TB"
+msgstr "TB"
+
+#. clipSpeak.py - Spoken Feedback
+msgid "Copied"
+msgstr "Copied"
+
+msgid "Cut"
+msgstr "Cut"
+
+msgid "Pasted"
+msgstr "Pasted"
+
+msgid "Selected all"
+msgstr "Selected all"
+
+msgid "Undo"
+msgstr "Undo"
+
+msgid "Clipboard is empty"
+msgstr "Clipboard is empty"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Word Document"
+msgstr "Word Document"
+
+msgid "Excel Sheet"
+msgstr "Excel Sheet"
+
+msgid "PowerPoint Presentation"
+msgstr "PowerPoint Presentation"
+
+msgid "Archive"
+msgstr "Archive"
+
+msgid "Executable"
+msgstr "Executable"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "File"
+msgstr "File"
+
+msgid "Files"
+msgstr "Files"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Rich Text"
+msgstr "Rich Text"
+
+msgid "Unknown Format"
+msgstr "Unknown Format"
+
+#. clipText.py - Text Saving / Appending Operations
+msgid "Saved to clip.txt"
+msgstr "Saved to clip.txt"
+
+msgid "Appended to clip.txt"
+msgstr "Appended to clip.txt"
+
+msgid "Failed to save to clip.txt"
+msgstr "Failed to save to clip.txt"
+
+msgid "Failed to append to clip.txt"
+msgstr "Failed to append to clip.txt"
+
+msgid "Nothing selected to save."
+msgstr "Nothing selected to save."
+
+msgid "Nothing selected to append."
+msgstr "Nothing selected to append."
+
+#. clipManager.py - GUI Labels & History Management
+msgid "Clipboard History"
+msgstr "Clipboard History"
+
+msgid "Search:"
+msgstr "Search:"
+
+msgid "Category:"
+msgstr "Category:"
+
+msgid "All"
+msgstr "All"
+
+msgid "Paste Selected"
+msgstr "Paste Selected"
+
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+msgid "Clear All History"
+msgstr "Clear All History"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Enter Master Password"
+msgstr "Enter Master Password"
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "Set New Password"
+msgstr "Set New Password"
+
+msgid "Enter new password:"
+msgstr "Enter new password:"
+
+msgid "Confirm new password:"
+msgstr "Confirm new password:"
+
+msgid "Password cannot be empty."
+msgstr "Password cannot be empty."
+
+msgid "Passwords do not match."
+msgstr "Passwords do not match."
+
+msgid "Incorrect password."
+msgstr "Incorrect password."
+
+msgid "Password set successfully."
+msgstr "Password set successfully."
+
+msgid "History cleared successfully."
+msgstr "History cleared successfully."
+
+msgid "Are you sure you want to clear all history?"
+msgstr "Are you sure you want to clear all history?"
+
+msgid "Confirm Action"
+msgstr "Confirm Action"
+
+msgid "Change History Hotkey"
+msgstr "Change History Hotkey"
+
+msgid "Press new key combination:"
+msgstr "Press new key combination:"
+
+msgid "Save Hotkey"
+msgstr "Save Hotkey"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Hotkey updated successfully."
+msgstr "Hotkey updated successfully."
+
+msgid "Invalid key combination."
+msgstr "Invalid key combination."
